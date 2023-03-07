@@ -1,0 +1,15 @@
+C:\Users\ato-codes\Documents\gadget\gadget\bin\Debug\gadget.exe.config
+C:\Users\ato-codes\Documents\gadget\gadget\bin\Debug\gadget.exe
+C:\Users\ato-codes\Documents\gadget\gadget\bin\Debug\gadget.pdb
+C:\Users\ato-codes\Documents\gadget\gadget\obj\Debug\gadget.csproj.AssemblyReference.cache
+C:\Users\ato-codes\Documents\gadget\gadget\obj\Debug\MainWindow.g.cs
+C:\Users\ato-codes\Documents\gadget\gadget\obj\Debug\App.g.cs
+C:\Users\ato-codes\Documents\gadget\gadget\obj\Debug\gadget_MarkupCompile.cache
+C:\Users\ato-codes\Documents\gadget\gadget\obj\Debug\gadget_MarkupCompile.lref
+C:\Users\ato-codes\Documents\gadget\gadget\obj\Debug\MainWindow.baml
+C:\Users\ato-codes\Documents\gadget\gadget\obj\Debug\gadget.g.resources
+C:\Users\ato-codes\Documents\gadget\gadget\obj\Debug\gadget.Properties.Resources.resources
+C:\Users\ato-codes\Documents\gadget\gadget\obj\Debug\gadget.csproj.GenerateResource.cache
+C:\Users\ato-codes\Documents\gadget\gadget\obj\Debug\gadget.csproj.CoreCompileInputs.cache
+C:\Users\ato-codes\Documents\gadget\gadget\obj\Debug\gadget.exe
+C:\Users\ato-codes\Documents\gadget\gadget\obj\Debug\gadget.pdb
